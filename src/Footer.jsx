@@ -5,7 +5,7 @@ const currentYear = date.getFullYear();
 
 
 function Footer(){
-    return <footer><p>CopyRight {currentYear}</p></footer>
+    return <footer><p>CopyRight © {currentYear}</p></footer>
 };
 
 export default Footer;
